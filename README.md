@@ -3,4 +3,4 @@
 ## Meu primeiro projeto com GitHub
 - Clonando o repositorio remoto
 - Criada a branch projeto_v2 
-- iniciado.
+- iniciado. Alterado branch diretamente no remoto
